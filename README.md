@@ -81,7 +81,7 @@ SwiftUI - Text Exploration
     style="margin-right: 10px;"
   />
     <img
-    src="https://raw.githubusercontent.com/Gargoros/TextExploration/images-for-readme/TextEplorationScreenshots/textExploration11.png"
+    src="https://raw.githubusercontent.com/Gargoros/TextExploration/TextEplorationScreenshots/textExploration11.png"
     alt="Simulator Screenshot 1"
     width="200"
     height="450"
